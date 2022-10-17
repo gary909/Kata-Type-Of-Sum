@@ -1,0 +1,1 @@
+# Kata-Type-Of-Sum
