@@ -1,5 +1,6 @@
 function typeOfSum(a, b) {
-    // good luck
+    mySum = a + b;
+    return typeof mySum
 }
 
 console.log(typeOfSum(12, 1)); // 'number'
